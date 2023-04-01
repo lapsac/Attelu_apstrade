@@ -4,3 +4,6 @@ mērogot brīvi izvēlētu attēlu tā, lai tā izmēri būtu platumā 500 pikse
 n=6<br>
 m=10<br>
 krāsa = zaļa <br>
+<br>
+Output:<br>
+![output](https://user-images.githubusercontent.com/123964250/229297790-62d0002b-d0c9-49dd-8f5f-18f0bbca1226.png)
